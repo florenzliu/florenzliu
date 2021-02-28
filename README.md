@@ -1,4 +1,9 @@
 ### Hi there 👋
+- Current interest: React, typescript, machine learning
+- Experience: Python, Java, JavaScript, C++, jQuery, Spring, Maven
+
+<img src="https://github-readme-stats.vercel.app/api?username=florenzliu&show_icons=true" alt="logo" height="160" align="auto" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=florenzliu&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
 **florenzliu/florenzliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=florenzliu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
-<img src="https://github-profile-trophy.vercel.app/?username=florenzliu&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
